@@ -41,7 +41,7 @@ Callum Fairbairn
         </div>
         <div class="col-sm-8">
           <h2>A Bit About Me...</h2><br>
-          <h4>My name is Callum Fairbairn and I am a Mathematics and Physics PhD student in my First year at Cambridge University. I am originally from the beautiful Kingdom of Fife in Scotland, which is also where I completed my MPhys Degree at the University of St Andrews.</h4><br>
+          <h4>My name is Callum and I am a Mathematics and Physics PhD student in my First year at Cambridge University. I am originally from the beautiful Kingdom of Fife in Scotland, which is also where I completed my MPhys Degree at the University of St Andrews.</h4><br>
           
           <p><strong>INTERESTS:</strong> Born and raised in Scotland, I have been fortunate to experience a country which has nurtured my love for hiking, nature and the great outdoors. I am also a keen follower of tennis, which I guess is a more socially acceptable obsession compared with my ejoyment of mathematics!
             
