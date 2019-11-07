@@ -27,7 +27,8 @@
       <h2>Research News</h2>
          <h4>2019</h4>
          <ul class="research-news-list">
-            <li><a href = "research/research_news/2019/matriculation.php">9th Oct - Matriculating at Christ's College Cambridge </a></li>
+            <li><a href = "research/research_news/2019/dampt_life.php">7th Oct - Settling into DAMTP Life</a></li>
+            <li><a href = "research/research_news/2019/matriculation.php">9th Oct - Matriculating at Christ's College Cambridge</a></li>
          </ul>
    </div>
    
