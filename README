@@ -1,0 +1,9 @@
+---------------------------README-----------------------------------
+
+This contains the files for my personal website served from my home machine locally called yellowstone and accessible through ssh via the DDNS callumfairbairn.ddns.net
+
+Transfer local copy of website (tested using XAMPP server) to server via:
+
+rsync -r ~/OneDrive/Undergraduate\ Documents/Websites/mywebsite/* cfair@yellowstone:/var/www/html/mywebsite/
+
+--------------------------------------------------------------------
