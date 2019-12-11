@@ -27,7 +27,7 @@
       <h2>Cambridge News</h2>
          <h4>2019</h4>
          <ul class="cambridge-news-list">
-            <li><a href = "cambridge/cambridge_news/2019/christmas.php">11th December - Merry Christ-mas</a></li>
+            <li><a href = "cambridge/2019/christmas.php">11th December - Merry Christ-mas</a></li>
          </ul>
    </div>
             
