@@ -14,6 +14,9 @@
                 <a class="nav-link" href="index.php">Home</a>
             </li>
             <li class="nav-item">
+                <a class="nav-link" href="cambridge/cambridge.php">Cambridge</a>
+            </li>
+            <li class="nav-item">
                 <a class="nav-link" href="research/research.php">Research</a>
             </li>
             <li class="nav-item">
