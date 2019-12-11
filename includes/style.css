@@ -40,11 +40,11 @@
 
 .cambridge-news {
     margin-top: 2em;
-    background-color:;
+    background-color:coral;
 }
 
 .cambridge-news-list a {
-    color: coral;
+    color: dimgray;
 }
 
 /*---------------------------------------*/
