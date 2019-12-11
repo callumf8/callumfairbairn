@@ -47,6 +47,20 @@
     color: dimgray;
 }
 
+.cambridge-news-article img{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: grey;
+}
+
+.cambridge-news-article h2{
+    padding-top: 20px;
+}
+
+.cambridge-news-article p{
+    color: grey;
+}
+
 /*---------------------------------------*/
 /*RESEARCH*/
 /*---------------------------------------*/
