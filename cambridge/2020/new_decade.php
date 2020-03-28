@@ -24,6 +24,10 @@ include_once($path);
      
 <h2>New Decade - 28/03/20</h2>
      
+<a href="cambridge/2020/Images/empty_streets.jpg">
+<img src="cambridge/2020/Images/empty_streets.jpg" style="width:80%">
+</a>
+     
 <p>It's been a long time since my last update - I think there is a real shortage of this valuable resource called free time in Cambridge! It's been a turbulent year so far and we are only into March. Brexit has officially happened and for most people in the academic community it represents a big new challenege to collaborative and funding opportunities. Nonetheless, I have had a good time progressing with my work in Cambridge and my little grey cells are getting pushed every step of the way.
 </p>
      
@@ -47,7 +51,7 @@ My family back home are also all working from the house and whilst I would love 
 </p>
      
 <p>
-I don't think many of us expected to be living through such stange times. In many ways it forces us to reflect on the relative peace of the lifestyles we have grown accustomed to in the Western world. Not since war time has the UK seen such restrictions on our shores. This threat, is in that respect, somewhat a new world war; but one far more encouraging in terms of collective global spirit. Here countries and people have been pulling together...expcept when it comes to pasta or toilet roll. Let's see where the coming weeks and months take us but I'm hoping that everyone stays healthy and hopefully my next post will see a return to some sort of normality. 
+I don't think many of us expected to be living through such stange times. In many ways it forces us to reflect on the relative peace of the lifestyles we have grown accustomed to in the Western world. Not since war time has the UK seen such restrictions on our shores. This threat, is in that respect, somewhat a new world war; but one far more encouraging in terms of collective global spirit. Here countries and people have been pulling together...expcept when it comes to pasta or toilet roll. Let's see where the coming weeks and months take us but I'm hoping that everyone stays healthy and hopefully my next post will see a return to some sort of normality!
 </p>
      
 </div>
