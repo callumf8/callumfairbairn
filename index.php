@@ -45,7 +45,7 @@ Callum Fairbairn
           
           <p><strong>INTERESTS:</strong> Born and raised in Scotland, I have been fortunate to experience a country which has nurtured my love for hiking, nature and the great outdoors. I am also a keen follower of tennis, which I guess is a more socially acceptable obsession compared with my ejoyment of mathematics!
             
-          I am matriculated as a member of Christs College Cambridge and look forward to this new adventure!</p>
+          I am matriculated as a member of Christs College Cambridge where I am the Welfare Officer for the MCR graduate committee!</p>
           
         </div>
       </div>
@@ -56,8 +56,8 @@ Callum Fairbairn
       <div class="row">
         <div class="col-sm-8">
           <h2>What do I Research?</h2><br>
-          <h4><strong>Accretion Disks:</strong> Accretion proccesses are ubiquitous throughout the universe and occur on a multitude of scales - from proto-planetary disks to galactic spirals. Understanding these structures is key to understanding the evolution of planets, stellar systems and black holes! </h4><br>
-          <p><strong>MY PROJECT:</strong> My project will use a combination of analytical theory and numerical modelling to examine accretion disks with eccentric or warped geometries. I will then incorporate magnetic fields to understand the effects of magnetohydrodyanmics on the transport properties of the disk.</p>
+          <h4><strong>Warped Accretion Discs:</strong> Accretion discs have been studied extensively in the flat thin disc regime but work is required to understand more complicated geometries. Warped discs allow for different wave modes to propagate in the disk and can affect crucial phenomena such as disc stability and angular momenta transport. </h4><br>
+          <p><strong>MY PROJECT:</strong> My project is developing a new local model for understanding warped discs. I use ideal hydrodynamical thin tori to understand non-linear oscillation modes within tilted ring structures. Combining analytical work with numerical simulations we aim to extend this to non ideal, viscous rings in the future.</p>
         </div>
         <div class="col-sm-4">
           <img src="./images/accretion.jpg" class="img-fluid rounded-circle img-pad " alt="Responsive image">
@@ -69,7 +69,7 @@ Callum Fairbairn
     <div class="container-fluid">
       <div class="row">
         <div class="col-sm-4">
-          <img src="./images/bison.JPG" class="img-fluid rounded-circle img-pad " alt="Responsive image">
+          <img src="./images/empty_streets.jpg" class="img-fluid rounded-circle img-pad " alt="Responsive image">
         </div>
         <div class="col-sm-8">
           <h2>Travels and Photography</h2><br>
