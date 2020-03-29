@@ -1,6 +1,6 @@
 <footer>
     <div class="footer-copyright text-center py-2 bg-dark small">
-        © 2019 Copyright: C. W. Fairbairn
+        © 2020 Copyright: C. W. Fairbairn
     </div>
     <section id="lab_social_icon_footer">
         <div class="container">
