@@ -48,7 +48,6 @@
       <iframe src="https://www.youtube.com/embed/9yO-oU7yygg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:relative;"></iframe>
       </div>
       
-      
       <h4>Paradise Lost</h4>
 
       <div class="aspect-ratio">
