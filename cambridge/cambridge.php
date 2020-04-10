@@ -40,11 +40,15 @@
       
    <div class="jumbotron cambridge-videos">
       
-      <h2>Exploring Cambridge</h2>
+      <h2>Cambridge through the Lens</h2>
+      
+      <h4>A Moment in Time</h4>
       
       <div class="centered">
       <iframe width="560" height="315" src="https://www.youtube.com/embed/9yO-oU7yygg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       
+      <h4>Paradise Lost</h4>
+
       <iframe width="560" height="315" src="https://www.youtube.com/embed/kdfJITXO6VE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </div>
 
