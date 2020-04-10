@@ -51,7 +51,9 @@
       
       <h4>Paradise Lost</h4>
 
+      <div class="aspect-ratio">
       <iframe src="https://www.youtube.com/embed/kdfJITXO6VE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </div>
 
    </div>
             
