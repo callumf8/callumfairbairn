@@ -45,7 +45,7 @@
       <h4>A Moment in Time</h4>
       
       <div class="centered">
-      <iframe width="100%" src="https://www.youtube.com/embed/9yO-oU7yygg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;"></iframe>
+      <iframe width="100%" src="https://www.youtube.com/embed/9yO-oU7yygg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:relative;"></iframe>
       
       <h4>Paradise Lost</h4>
 
