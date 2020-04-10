@@ -28,8 +28,6 @@
       
          <h4>2020</h4>
       
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/9yO-oU7yygg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-      
          <ul class="cambridge-news-list">
             <li><a href = "cambridge/2020/new_decade.php">13th March - A New Decade</a></li>
          </ul>
@@ -38,6 +36,13 @@
          <ul class="cambridge-news-list">
             <li><a href = "cambridge/2019/christmas.php">11th December - Merry Christ-mas</a></li>
          </ul>
+   </div>
+      
+   <div class="jumbotron cambridge-videos">
+      <h2>Exploring Cambridge</h2>
+      
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/9yO-oU7yygg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
    </div>
             
    </div>
