@@ -23,12 +23,13 @@
 <!-----------------NAVBAR-------------------------------------------------->     
    <div class="container">
       
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/9yO-oU7yygg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-      
    <div class="jumbotron cambridge-news">
       <h2>Cambridge News</h2>
       
          <h4>2020</h4>
+      
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/9yO-oU7yygg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      
          <ul class="cambridge-news-list">
             <li><a href = "cambridge/2020/new_decade.php">13th March - A New Decade</a></li>
          </ul>
