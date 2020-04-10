@@ -44,13 +44,14 @@
       
       <h4>A Moment in Time</h4>
       
-      <div class="centered">
-      <iframe width="100%" src="https://www.youtube.com/embed/9yO-oU7yygg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:relative;"></iframe>
+      <div class="aspect-ratio">
+      <iframe src="https://www.youtube.com/embed/9yO-oU7yygg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:relative;"></iframe>
+      </div>
+      
       
       <h4>Paradise Lost</h4>
 
-      <iframe width="100%" height="100%" src="https://www.youtube.com/embed/kdfJITXO6VE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-      </div>
+      <iframe src="https://www.youtube.com/embed/kdfJITXO6VE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
    </div>
             
