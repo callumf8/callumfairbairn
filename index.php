@@ -73,7 +73,7 @@ Callum Fairbairn
         </div>
         <div class="col-sm-8">
           <h2>Travels and Photography</h2><br>
-          <h4>I love to travel and explore different landscapes and cultures. Wherever I go I like to capture my time their using my trusty Nikon - some of my photos will be uploaded shortly.</h4><br>
+          <h4>I love to travel and explore different landscapes and cultures. Wherever I go I like to capture my time there using my trusty Nikon - some of my photos will be uploaded shortly.</h4><br>
           <p><strong>WHERE:</strong> I have been fortunate to visit Yellowstone and Yosemite National Parks in the US which have spectacular scenery and wildlife. Camping and road trips around Scotland have shown Scotland to be similarly dramatic and atmsopheric - especially in the Highlands, Islands and West Coast. </p>
         </div>
       </div>
