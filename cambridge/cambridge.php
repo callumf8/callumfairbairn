@@ -26,9 +26,9 @@
    <div class="jumbotron cambridge-news">
       <h2>Cambridge News</h2>
       
-         <h4>2020</h4>
-      
+         <h4>2020</h4>      
          <ul class="cambridge-news-list">
+            <li><a href = "cambridge/2020/lockdown.php">10th May - The Lockdown Continues</a></li>
             <li><a href = "cambridge/2020/new_decade.php">13th March - A New Decade</a></li>
          </ul>
          
