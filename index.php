@@ -1,25 +1,25 @@
 <!------------------------------------------------------------------
-index.html 
+index.html
 Callum Fairbairn
-03/06/19                                                         
+03/06/19
 <!----------------------------------------------------------------->
 <!DOCTYPE html>
 <html lang="en">
-  <!-----------------HEADER----------------------------------------> 
-  <?php 
+  <!-----------------HEADER---------------------------------------->
+  <?php
   $path = $_SERVER['DOCUMENT_ROOT'];
   $path .= "/includes/head.php";
   include_once($path);
-  ?>  
-  <!-----------------BODY------------------------------------------> 
+  ?>
+  <!-----------------BODY------------------------------------------>
   <body>
-    <!-----------------NAVBAR--------------------------------------> 
-    <?php 
+    <!-----------------NAVBAR-------------------------------------->
+    <?php
     $path = $_SERVER['DOCUMENT_ROOT'];
     $path .= "/includes/navbar.php";
     include_once($path);
     ?>
-    <!-----------------HOMEPAGE------------------------------------>     
+    <!-----------------HOMEPAGE------------------------------------>
 <!--
     <div class="container-fluid bg-1 text-center">
       <h4>Theoretical Physicist and Mathematics PhD Student studying at Cambridge University </h4>
@@ -33,7 +33,7 @@ Callum Fairbairn
       </blockquote>
     </div>
 
-    <!------------------------------------------------------------>        
+    <!------------------------------------------------------------>
     <div class="container-fluid">
       <div class="row">
         <div class="col-sm-4">
@@ -41,17 +41,17 @@ Callum Fairbairn
         </div>
         <div class="col-sm-8">
           <h2>A Bit About Me...</h2><br>
-          <h4>My name is Callum and I am a Mathematics and Physics PhD student in my First year at Cambridge University. I am originally from the beautiful Kingdom of Fife in Scotland, which is also where I completed my MPhys Degree at the University of St Andrews.</h4><br>
+          <h4>My name is Callum and I am a Mathematics and Physics PhD student in my First year at Cambridge University. I am originally from the beautiful Kingdom of Fife in Scotland, which is also where I completed my MPhys Degree at the University of St Andrews. <a>https://calendar.google.com/calendar/ical/hndc5cuee13v1h0sgf9hfildtg%40group.calendar.google.com/private-a344c499771fcc1e2e91780c8d8bf0ac/basic.ics</a></h4><br>
           
           <p><strong>INTERESTS:</strong> Born and raised in Scotland, I have been fortunate to experience a country which has nurtured my love for hiking, nature and the great outdoors. I am also a keen follower of tennis, which I guess is a more socially acceptable obsession compared with my enjoyment of mathematics!
-            
+
           I am matriculated as a member of Christs College Cambridge where I am the Welfare Officer for the MCR graduate committee!</p>
-          
+
         </div>
       </div>
     </div>
 
-    <!------------------------------------------------------------>    
+    <!------------------------------------------------------------>
     <div class="container-fluid bg-2">
       <div class="row">
         <div class="col-sm-8">
@@ -65,7 +65,7 @@ Callum Fairbairn
       </div>
     </div>
 
-    <!------------------------------------------------------------>    
+    <!------------------------------------------------------------>
     <div class="container-fluid">
       <div class="row">
         <div class="col-sm-4">
@@ -79,8 +79,8 @@ Callum Fairbairn
       </div>
     </div>
 
-    <!---------------FOOTER-------------------------------------->    
-    <?php 
+    <!---------------FOOTER-------------------------------------->
+    <?php
     $path = $_SERVER['DOCUMENT_ROOT'];
     $path .= "/includes/footer.php";
     include_once($path);
@@ -88,10 +88,3 @@ Callum Fairbairn
     <!-----------------FOOTER------------------------------------> </body>
 </html>
 <!--------------------------------------------------------------->
-
-
-
-
-
-
-
